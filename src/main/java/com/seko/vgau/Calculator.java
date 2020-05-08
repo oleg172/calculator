@@ -46,5 +46,6 @@ public class Calculator {
         System.out.println("Белки: " + bgu.getProtein() + " грамм(а)");
         System.out.println("Жиры: " + bgu.getFats() + " грамм(а)");
         System.out.println("Углеводы: " + bgu.getCarbohydrates() + " грамм(а)");
+
     }
 }
